@@ -1,1 +1,4 @@
 # java-gui
+
+JOHN CARLO SAMSON RAMOS
+BSIT-2B
