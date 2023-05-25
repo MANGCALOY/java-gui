@@ -75,7 +75,7 @@ public class LogInForm extends JFrame implements ActionListener {
         exit.setBounds(200, 400, 40, 30);
         exit.setFont(new Font("ARIAL", Font.BOLD,15));
         exit.setForeground(new Color(0, 102, 0));
-        exit.setBackground(new Color(2238, 238, 238));
+        exit.setBackground(new Color(238, 238, 238));
         exit.setBorder(BorderFactory.createEmptyBorder());
         exit.setBorder(null);
 
